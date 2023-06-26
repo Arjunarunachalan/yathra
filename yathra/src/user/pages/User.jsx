@@ -7,6 +7,24 @@ const User = () => {
     image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhWVNPoeIhsqHktFKwH4iWDr27nYkPmGUVUGLqD3frA&usqp=CAU&ec=48600113",
     name:"ElonMusk",
     places:1
+  },
+  {
+    id:1,
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhWVNPoeIhsqHktFKwH4iWDr27nYkPmGUVUGLqD3frA&usqp=CAU&ec=48600113",
+    name:"ElonMusk",
+    places:1
+  },
+  {
+    id:1,
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhWVNPoeIhsqHktFKwH4iWDr27nYkPmGUVUGLqD3frA&usqp=CAU&ec=48600113",
+    name:"ElonMusk",
+    places:1
+  },
+  {
+    id:1,
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhWVNPoeIhsqHktFKwH4iWDr27nYkPmGUVUGLqD3frA&usqp=CAU&ec=48600113",
+    name:"ElonMusk",
+    places:1
   }]
   return (
     <div>
